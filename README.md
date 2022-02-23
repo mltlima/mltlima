@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**mltlima/mltlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github-readme-stats.vercel.app/api?username=m0rp43us&count_private=true&show_icons=true&theme=chartreuse-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mltlima&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/m0rp43us">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mltlima&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
