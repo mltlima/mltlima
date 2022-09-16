@@ -2,12 +2,14 @@
 
 I'm Miguel Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Rio de Janeiro, Brazil
 
+## Education
+
 <ul>
   <li>Computer Science at UFRJ</li>
   <li>Software Engineering at Driven</li>
 </ul>
 
-<h3>Working with</h3>
+## Working with
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
