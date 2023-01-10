@@ -2,6 +2,8 @@
 
 I'm Miguel Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Rio de Janeiro, Brazil
 
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow mltlima on LinkedIn" title="Follow mltlima on LinkedIn"/>](https://www.linkedin.com/in/miguel-lima-tavares/)
+
 ## Education
 
 <ul>
